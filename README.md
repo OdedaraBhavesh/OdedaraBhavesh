@@ -45,9 +45,9 @@
 - 🧑‍💻 GitHub: [github.com/OdedaraBhavesh](https://github.com/OdedaraBhavesh)
 
 ---
-
 <!-- STATS -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OdedaraBhavesh&show_icons=true&theme=default" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OdedaraBhavesh&theme=default" alt="streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=OdedaraBhavesh&theme=default" alt="streak" />
 </p>
+
