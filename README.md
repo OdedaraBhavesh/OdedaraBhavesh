@@ -34,7 +34,7 @@
 
 - 🚜 [Crop Yield Prediction](https://github.com/OdedaraBhavesh/crop-yield-predictor) – Machine learning model to predict crop yield based on various features.
 - 📰 [Fake News Detection](https://github.com/OdedaraBhavesh/fake-news-detection) – A text classification model using NLP techniques.
-- 🌐 [Portfolio Website](https://odedarabhavesh.framer.website) – My personal portfolio made using Framer.
+- 🌐 [Portfolio Website](https://odedarabhavesh.framer.websitess) – My personal portfolio made using Framer.
 
 ---
 
