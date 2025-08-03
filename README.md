@@ -12,7 +12,6 @@
 - 🎓 I’m currently pursuing my **MCA** at Gujarat University, Department of Computer Science  
 - 🤖 Interested in **Machine Learning, Data Science**, and intelligent systems  
 - 💻 Strong foundation in **MERN stack** from Bachelor's  
-- 🌱 Currently learning: **Docker**, **Power BI**, and improving ML model deployment  
 - ⚡ Fun fact: I love turning data into decisions and collaborating on real-world projects!
 
 ---
@@ -34,7 +33,6 @@
 
 - 🚜 [Crop Yield Prediction](https://github.com/OdedaraBhavesh/crop-yield-predictor) – Machine learning model to predict crop yield based on various features.
 - 📰 [Fake News Detection](https://github.com/OdedaraBhavesh/fake-news-detection) – A text classification model using NLP techniques.
-- 🌐 [Portfolio Website](https://odedarabhavesh.framer.websitess) – My personal portfolio made using Framer.
 
 ---
 
